@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/lucas-henrique-lemos-silva-sotero-234995222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Sobre meu GIT
 <div>
 <a href="https://github.com/lucasoteroo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoteroo&layout=compact&langs_count=7&theme=dracula"/>
