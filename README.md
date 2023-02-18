@@ -15,7 +15,7 @@
 
 ## Sobre meu GIT
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasoteroo/lucasoteroo/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/lucasoteroo">
